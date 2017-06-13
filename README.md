@@ -1,4 +1,4 @@
-# Recommendations from zero to hero
+# Recommendations scratch
 
 ## Overview
 
