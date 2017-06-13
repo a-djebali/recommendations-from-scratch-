@@ -1,4 +1,4 @@
-# Recommendations scratch
+# Recommendations from scratch
 
 ## Overview
 
